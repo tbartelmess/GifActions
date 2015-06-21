@@ -16,4 +16,5 @@ mkdir -p ~/Library/Services
 curl -L https://github.com/tbartelmess/GifActions/releases/download/0.0.1/0.0.1.tar.gz | tar -C ~/Library/Services -xz
 ```
 
+### Long install
 Download the repository and copy the contents of the workflows folder into ~/Library/Services
