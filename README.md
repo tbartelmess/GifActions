@@ -1,7 +1,7 @@
 # GifActions
 A tiny automator action to create gifs from movies
 
-![Demo](demo.gif)
+![Demo](Demo.gif)
 
 ## Prerequisites
 - ffmpeg in your path (The version installed by homebrew does not seem to have gif support enabled). You can download a static build here [http://evermeet.cx/ffmpeg/](http://evermeet.cx/ffmpeg/)
